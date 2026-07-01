@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0226/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金園集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0950.xml
+    old_id: X57n0950
+hash: sha256:2b92817832c1185d2410769af66def0841112be2dca300e1dbeb6c45b6056828
